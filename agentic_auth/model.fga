@@ -1,0 +1,26 @@
+model
+  schema 1.1
+
+type user
+
+type agent
+  relations
+    define owner: [user]
+    define active_session: [user]
+
+type task
+  relations
+    define delegator: [user]
+    define assignee: [agent]
+    define can_access: [resource]
+
+type resource
+  relations
+    define owner: [user]
+    define reader: [user, agent, task]
+    define writer: [user, agent, task]
+
+type tool
+  relations
+    define can_invoke: [user, agent, task]
+
