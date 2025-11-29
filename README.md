@@ -2,7 +2,7 @@
 
 Authorization patterns for autonomous AI agent systems using Relationship-Based Access Control (ReBAC) with OpenFGA.
 
-This project implements the authorization model described in the blog post "Securing Agentic AI: Authorization Patterns for Autonomous Systems", providing task-scoped delegation, authorization gateways, and scope inference for AI agents.
+This project implements the authorization model described in the blog post ["Securing Agentic AI: Authorization Patterns for Autonomous Systems"](https://dev.to/siddhantkcode/securing-agentic-ai-authorization-patterns-for-autonomous-systems-3ajo), providing task-scoped delegation, authorization gateways, and scope inference for AI agents.
 
 ## Features
 
