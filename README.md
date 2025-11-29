@@ -287,4 +287,4 @@ This project is provided as-is for educational and reference purposes.
 
 - [OpenFGA Documentation](https://openfga.dev/docs)
 - [Relationship-Based Access Control](https://openfga.dev/docs/concepts#what-is-relationship-based-access-control-rebac)
-- Blog post: "Securing Agentic AI: Authorization Patterns for Autonomous Systems"
+- Blog post: ["Securing Agentic AI: Authorization Patterns for Autonomous Systems"](https://dev.to/siddhantkcode/securing-agentic-ai-authorization-patterns-for-autonomous-systems-3ajo)
